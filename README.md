@@ -2,7 +2,9 @@ To create a Python script that retrieves a web page and checks the hierarchy of 
 
 Step 1: Install Required Libraries
 If you haven't already, install the necessary libraries using pip:
+
 bash
+
 pip install requests beautifulsoup4
 
 Step 2: Write the Script
